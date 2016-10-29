@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Release\OpenUpdate.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Release\OpenUpdate.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Release\OpenUpdate.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Release\OpenUpdate.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Release\OpenUpdate.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Release\OpenUpdate.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Release\OpenUpdate.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Release\OpenUpdate.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Release\OpenUpdate.pdb

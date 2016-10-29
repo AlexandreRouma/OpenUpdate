@@ -1,0 +1,18 @@
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\bin\Debug\OpenUpdate.exe.config
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\bin\Debug\OpenUpdate.exe
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\bin\Debug\OpenUpdate.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\bin\Debug\OpenUpdate.xml
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\obj\Debug\OpenUpdate.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\obj\Debug\OpenUpdate.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\obj\Debug\OpenUpdate.exe
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\obj\Debug\OpenUpdate.xml
+C:\Users\PC\AppData\Local\Temporary Projects\OpenUpdate\obj\Debug\OpenUpdate.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Debug\OpenUpdate.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Debug\OpenUpdate.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Debug\OpenUpdate.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Debug\OpenUpdate.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Debug\OpenUpdate.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Debug\OpenUpdate.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\bin\Debug\OpenUpdate.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Debug\OpenUpdate.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\OpenUpdate\OpenUpdate\obj\Debug\OpenUpdate.vbproj.GenerateResource.Cache
